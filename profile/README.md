@@ -47,13 +47,10 @@ DevOps:        Docker
 ### **[Identus-Store](https://github.com/trust0-project/identus/tree/main/packages/identus-store)** - *Production-Ready SDK Integration*
 - **⚡ Zero-Config**: Drop-in replacement for default Identus storage
 - **🔐 Security-First**: End-to-end encryption by default
-- **📊 Analytics**: Built-in performance monitoring
 - **🌐 Cross-Platform**: Web, Mobile, Desktop support
 
 ### **[React-Identus](https://github.com/trust0-project/identus/tree/main/packages/identus-react)** - *Developer Experience Focused*
-- **🎯 Developer-First**: Abstract complexity, expose simplicity
-- **📱 Mobile-Optimized**: React Native compatibility
-- **🔄 Real-time**: WebSocket-based status updates
+- **🎯 Easy to use Hooks like useAgent, useIssuer, useHolder, useVerifier, useMessages, making it extremely easy to load and manage state across a react application and exposes Issuance, Verification and Holding of SSI credentials through the [Hyperledger Identus SDK](https://github.com/hyperledger-identus/sdk-ts).
 - **🧪 Testing Suite**: Comprehensive mock providers
 
 ---

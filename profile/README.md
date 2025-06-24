@@ -15,7 +15,7 @@
 
 TrustO is a **bleeding-edge engineering consultancy** specializing in **cryptographically-secured identity infrastructure**. We architect and deploy enterprise-grade solutions leveraging:
 
-- 🔬 **Zero-Knowledge Proof Systems** (zk-SNARKs, zk-STARKs)
+- 🔬 **Zero-Knowledge Proof Systems** (anoncreds, sd+jwt)
 - 🛡️ **Self-Sovereign Identity (SSI) Protocols**
 - ⛓️ **Distributed Ledger Technologies** (Cardano, Hyperledger)
 - 🔐 **Advanced Cryptographic Primitives**

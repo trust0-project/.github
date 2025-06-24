@@ -19,7 +19,7 @@ TrustO is a **bleeding-edge engineering consultancy** specializing in **cryptogr
 - 🛡️ **Self-Sovereign Identity (SSI) Protocols**
 - ⛓️ **Distributed Ledger Technologies** (Cardano, Hyperledger)
 - 🔐 **Advanced Cryptographic Primitives**
-- 🌐 **Decentralized PKI Infrastructure**
+- 🌐 **Decentralized DID Issuance + Resolutione**
 
 ---
 

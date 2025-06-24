@@ -7,7 +7,7 @@
 [![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=cardano&logoColor=white)]()
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
 
-**[🌐 trust0.id](https://trust0.id) | [📧 Contact](mailto:contact@trust0.id) | [🐦 Follow Updates](https://twitter.com/trust0_project)**
+**[🌐 trust0.id](https://trust0.id) | [🐦 Follow Updates](https://twitter.com/elribonazo)**
 
 ---
 

@@ -38,6 +38,13 @@ DevOps:        Docker
 
 ## 🔥 **Featured Open Source Projects**
 
+### **[Identus OFA](https://github.com/trust0-project/identus-ofa)** - *Offline first Issuer, Holder and Verifier*
+- **⚡ Zero-Config**: Run Self sovereign Identity service offline without having to manage tedious and/or expensive deployments.
+- **🎯 Web3 Friendly**: Optimized for Web2/3 use-cases which means your App can easily issue a Credential Offer to a Holder by creating a Shareable OOB URL the Holder can consume in his instance.
+- **🌐 Cross-Platform**: Use any Cardano wallet to Write your own DIDS on Chain (Hardware wallets are supported)
+- **🔐 Security**: Data never leaves your browser and is encrypted with a password only you know
+
+
 ### **[RIDB](https://github.com/trust0-project/RIDB)** - *Next-Gen Encrypted Storage Engine*
 - **🚀 Performance**: 10x faster than traditional SQLite implementations
 - **🔒 Security**: AES-256-GCM encryption at rest

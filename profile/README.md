@@ -1,4 +1,4 @@
-# 🔐 TrustO | Pioneering Decentralized Identity Infrastructure
+# 🔐 TrustO | Decentralized Identity Infrastructure
 
 > **Building the future of digital trust through cutting-edge cryptographic protocols and self-sovereign identity solutions**
 
